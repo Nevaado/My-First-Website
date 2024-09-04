@@ -1,0 +1,27 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 25px;
+ font-weight: 500;
+}
+#CREED {
+    height: 200px;
+}
+
+#BLACK   {
+    height: 150px;
+}
+
+#MADEA {
+    height: 150px; 
+}
